@@ -1,0 +1,166 @@
+
+<! -- Page title --> <p>
+    <span style="font-family: lato, 'Helvetica Neue', Helvetica, Arial, sans-serif; color: #a98d6c; font-size: 24pt; border-bottom: 3px solid #a98d6c;"><strong>Title</strong></span>
+</p>
+<! -- Section title --><p><span style="font-family: lato, 'Helvetica Neue', Helvetica, Arial, sans-serif; color: #333333; font-size: 18pt; border-bottom: 3px solid #a98d6c;"><strong>Title</strong></span></p>
+
+<! -- Intro box --> 
+<table style="border-collapse: collapse; width: 97.3621%; height: 29px;" border="0">
+    <tbody>
+        <tr style="height: 29px;">
+            <td style="width: 99.8768%; border-style: none; height: 29px; background-color: #e7e6e6; text-align: left; vertical-align: middle; padding: 15px;">
+                <span style="font-size: 14pt;">Welcome students and graduates of the Diploma in Performance Nutrition and our former programme the ISSN Diploma. This Module provides you access to a comprehensive suite of resources that will keep you abreast with the latest developments in applied sport and exercise nutrition.</span>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+
+<! -- Table with icons --> <table style="border-collapse: collapse; width: 97.3138%; height: 141px;" border="0">
+    <tbody>
+        <tr style="height: 29px;">
+            <td style="width: 7.6148%; height: 29px;">
+                <img src="/courses/193/files/7356/preview" alt="Journal Club Icon" />
+                <br />
+                <br />
+            </td>
+            <td style="width: 92.2598%; height: 29px; vertical-align: top;">
+                <span style="color: #000000; font-size: 14pt;"><strong>Journal club</strong></span>
+                <br />Access research reviews recorded by Professor Kevin Tipton
+            </td>
+        </tr>
+        <tr style="height: 29px;">
+            <td style="width: 7.6148%; height: 29px;">
+                <img id="7355" src="/courses/193/files/7355/preview" alt="podcast.jpg" />
+                <br />
+                <br />
+            </td>
+            <td style="width: 92.2598%; height: 29px; vertical-align: top;">
+                <span style="color: #000000; font-size: 14pt;"><strong>Podcast discussion forum</strong></span>
+                <br />A private forum for IOPN students and alumni to discuss the latest &lsquo;We Do Science&rsquo; podcast episodes
+            </td>
+        </tr>
+        <tr style="height: 29px;">
+            <td style="width: 7.6148%; height: 29px;">
+                <img src="/courses/193/files/7357/preview" alt="Recommended journal icon" />
+            </td>
+            <td style="width: 92.2598%; height: 29px; vertical-align: top;">
+                <span style="color: #000000; font-size: 14pt;"><strong>Recommended journal articles </strong></span>
+                <br />Keep up to date with the teams recommend papers of the month
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+<! -- Sub subtitle -->
+<h4><span style="font-size: 14pt;"><strong><span style="font-family: Helvetica, Arial, sans-serif; color: #a98d6c; border-bottom: 2px solid #666666;">Your commitment:</span></strong></span></h4>
+
+<! -- Coloured Tables with Icons -->
+<table style="border-collapse: collapse; width: 97.3138%; height: 10px;" border="0">
+    <tbody>
+        <tr style="height: 29px;">
+            <td style="width: 7.6148%; height: 10px; vertical-align: top; padding-top: 10px; padding-right: 10px;"><img src="https://guruperformance.instructure.com/courses/198/files/8161/preview" alt="Essential theory icon.jpg" width="75" height="75" data-api-endpoint="https://guruperformance.instructure.com/api/v1/courses/198/files/8161" data-api-returntype="File" /></td>
+            <td style="width: 92.2598%; height: 10px; background-color: #f3cec6; padding: 10px; vertical-align: top;"><span style="color: #000000; font-size: 14pt;"><strong>Essential theory:</strong></span><br />critical information that students need to remember before progressing. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</td>
+        </tr>
+    </tbody>
+</table>
+<p>&nbsp;</p>
+<table style="border-collapse: collapse; width: 97.3138%; height: 10px;" border="0">
+    <tbody>
+        <tr style="height: 29px;">
+            <td style="width: 7.6148%; height: 10px; vertical-align: top; padding-top: 10px; padding-right: 10px;"><img src="https://guruperformance.instructure.com/courses/198/files/8163/preview" alt="Helpful hints icon.png" width="75" height="75" data-api-endpoint="https://guruperformance.instructure.com/api/v1/courses/198/files/8163" data-api-returntype="File" /></td>
+            <td style="width: 92.2598%; height: 10px; background-color: #c8d9db; padding: 10px; vertical-align: top;"><span style="color: #000000; font-size: 14pt;"><strong>Helpful hint:</strong></span><br />provides students with another approach to remembering the information (i.e., via analogy or mnemonic). Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</td>
+        </tr>
+    </tbody>
+</table>
+<p>&nbsp;</p>
+<table style="border-collapse: collapse; width: 97.3138%; height: 10px;" border="0">
+    <tbody>
+        <tr style="height: 29px;">
+            <td style="width: 7.6148%; height: 10px; vertical-align: top; padding-top: 10px; padding-right: 10px;"><img src="https://guruperformance.instructure.com/courses/198/files/8164/preview" alt="Knowledge translation icon.png" width="75" height="75" data-api-endpoint="https://guruperformance.instructure.com/api/v1/courses/198/files/8164" data-api-returntype="File" /></td>
+            <td style="width: 92.2598%; height: 10px; background-color: #e3e5be; padding: 10px; vertical-align: top;"><span style="color: #000000; font-size: 14pt;"><strong>Knowledge translation:</strong></span><br />provides insight into how this information should be applied or viewed in practice from the perspective of a performance nutritionist. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</td>
+        </tr>
+    </tbody>
+</table>
+<p>&nbsp;</p>
+<table style="border-collapse: collapse; width: 97.3138%; height: 10px;" border="0">
+    <tbody>
+        <tr style="height: 29px;">
+            <td style="width: 7.6148%; height: 10px; vertical-align: top; padding-top: 10px; padding-right: 10px;"><img src="https://guruperformance.instructure.com/courses/198/files/8165/preview" alt="Why it matters icon.png" width="75" height="75" data-api-endpoint="https://guruperformance.instructure.com/api/v1/courses/198/files/8165" data-api-returntype="File" /></td>
+            <td style="width: 92.2598%; height: 10px; background-color: #f7e3dd; padding: 10px; vertical-align: top;"><span style="color: #000000; font-size: 14pt;"><strong>Why it matters:</strong></span><br />provides context on a concept&rsquo;s importance, for example, how something small or seemingly insignificant can, in fact, have an impact on the body or on performance on a large scale.<strong>&nbsp; &nbsp; </strong>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</td>
+        </tr>
+    </tbody>
+</table>
+<p>&nbsp;</p>
+<table style="border-collapse: collapse; width: 97.3138%; height: 10px;" border="0">
+    <tbody>
+        <tr style="height: 29px;">
+            <td style="width: 7.6148%; height: 10px; vertical-align: top; padding-top: 10px; padding-right: 10px;"><img src="https://guruperformance.instructure.com/courses/198/files/8166/preview" alt="Give this a go icon.png" width="75" height="75" data-api-endpoint="https://guruperformance.instructure.com/api/v1/courses/198/files/8166" data-api-returntype="File" /></td>
+            <td style="width: 92.2598%; height: 10px; background-color: #f7f3d3; padding: 10px; vertical-align: top;"><span style="color: #000000; font-size: 14pt;"><strong>Give this a go:</strong></span><br />provides students with activities they can practice outside of the course to improve their understanding. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</td>
+        </tr>
+    </tbody>
+</table>
+<p>&nbsp;</p>
+<table style="border-collapse: collapse; width: 97.3138%; height: 10px;" border="0">
+    <tbody>
+        <tr style="height: 29px;">
+            <td style="width: 7.6148%; height: 10px; vertical-align: top; padding-top: 10px; padding-right: 10px;"><img src="https://guruperformance.instructure.com/courses/198/files/8167/preview" alt="A closer look icon.png" width="75" height="75" data-api-endpoint="https://guruperformance.instructure.com/api/v1/courses/198/files/8167" data-api-returntype="File" /></td>
+            <td style="width: 92.2598%; height: 10px; background-color: #bfc8d1; padding: 10px; vertical-align: top;"><span style="color: #000000; font-size: 14pt;"><strong>A closer look:</strong></span><br />sheds further light on the nuances of a topic and encourages students to learn more about its relevance. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</td>
+        </tr>
+    </tbody>
+</table>
+<p>&nbsp;</p>
+<table style="border-collapse: collapse; width: 97.3138%; height: 10px;" border="0">
+    <tbody>
+        <tr style="height: 29px;">
+            <td style="width: 7.6148%; height: 10px; vertical-align: top; padding-top: 10px; padding-right: 10px;"><img src="https://guruperformance.instructure.com/courses/198/files/8168/preview" alt="Emerging Insights icon.png" width="75" height="75" data-api-endpoint="https://guruperformance.instructure.com/api/v1/courses/198/files/8168" data-api-returntype="File" /></td>
+            <td style="width: 92.2598%; height: 10px; background-color: #d2d9d9; padding: 10px; vertical-align: top;"><span style="color: #000000; font-size: 14pt;"><strong>Emerging insights:</strong></span><br />exposes students to emerging research on a concept and its potential significance to influencing the field of SEN in the future. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</td>
+        </tr>
+    </tbody>
+</table>
+<p>&nbsp;</p>
+<table style="border-collapse: collapse; width: 97.3138%; height: 10px;" border="0">
+    <tbody>
+        <tr style="height: 29px;">
+            <td style="width: 7.6148%; height: 10px; vertical-align: top; padding-top: 10px; padding-right: 10px;"><img src="https://guruperformance.instructure.com/courses/198/files/8169/preview" alt="Links to the past icon.png" width="75" height="75" data-api-endpoint="https://guruperformance.instructure.com/api/v1/courses/198/files/8169" data-api-returntype="File" /></td>
+            <td style="width: 92.2598%; height: 10px; background-color: #eef6f0; padding: 10px; vertical-align: top;"><span style="color: #000000; font-size: 14pt;"><strong>Links to the past:</strong></span><br />pays homage to certain discoveries and researchers that enabled our current understanding.<strong> &nbsp;</strong>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</td>
+        </tr>
+    </tbody>
+</table>
+<p>&nbsp;</p>
+<table style="border-collapse: collapse; width: 97.3138%; height: 10px;" border="0">
+    <tbody>
+        <tr style="height: 29px;">
+            <td style="width: 7.6148%; height: 10px; vertical-align: top; padding-top: 10px; padding-right: 10px;"><img src="https://guruperformance.instructure.com/courses/198/files/8170/preview" alt="Mindful moment icon.png" width="75" height="75" data-api-endpoint="https://guruperformance.instructure.com/api/v1/courses/198/files/8170" data-api-returntype="File" /></td>
+            <td style="width: 92.2598%; height: 10px; background-color: #fcf5ec; padding: 10px; vertical-align: top;"><span style="color: #000000; font-size: 14pt;"><strong>A mindful moment:</strong></span><br />encourages students to take a moment to appreciate how this process is influencing their own life (i.e., physiology, behaviours, performance). Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</td>
+        </tr>
+    </tbody>
+</table>
+<p>&nbsp;</p>
+
+
+<! -- Grey Tables  -->
+<table style="margin-bottom: 10px; border-collapse: collapse; width: 97.3621%; height: 29px;" border="0">
+    <tbody>
+        <tr style="height: 29px;">
+            <td style="width: 100%; border-style: none; height: 29px; background-color: #e7e6e6; text-align: left; vertical-align: middle; padding: 15px;"><span style="font-size: 12pt; font-family: helvetica;">Low stake recall tests, multi-choice quizzes and retrieval practice are developed to improve memory of the information learned. Although memorisation remains at the lower tier of higher-order thinking, critical thinking requires a bedrock of accurate memorised knowledge and intuitive, automatic judgements (&lsquo;System 1&rsquo; - type thinking) to be performed quickly and accurately.</span></td>
+        </tr>
+    </tbody>
+</table>
+
+<table style="margin-bottom: 10px; border-collapse: collapse; width: 97.3621%; height: 29px;" border="0">
+    <tbody>
+        <tr style="height: 29px;">
+            <td style="width: 100%; border-style: none; height: 29px; background-color: #f4f4f4; padding: 15px; text-align: left; vertical-align: middle;"><span style="font-size: 12pt; font-family: helvetica;">Reflective journals and class-wide discussion are designed to enhance meta-cognition and critically appraise student thinking.</span></td>
+        </tr>
+    </tbody>
+</table>
+
+<table style="margin-bottom: 10px; border-collapse: collapse; width: 97.3621%; height: 29px;" border="0">
+    <tbody>
+        <tr style="height: 29px;">
+            <td style="width: 99.8768%; border-style: none; height: 29px; background-color: #e7e6e6; text-align: left; vertical-align: middle; padding: 15px;"><span style="font-size: 12pt; font-family: helvetica;">Case-based learning explores the subject beyond the surface of mechanisms and definitions, placing it in various real-world contexts and giving it a more rounded, applicable viewpoint. This approach enhances student understanding and confidence to apply learnings outside of the course.</span></td>
+        </tr>
+    </tbody>
+</table>
+
